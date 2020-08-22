@@ -14,5 +14,5 @@
 - [学术报告一百四十九：长江江豚保护40年：科学探索、进展和未来方向](http://hyxy.hhu.edu.cn/2019/1024/c8634a198018/page.htm)
 - [学术报告一百四十八：关键金属富集成矿机制](http://hyxy.hhu.edu.cn/2019/1011/c8634a196893/page.htm)
 - [学术报告一百四十七：河海大学第二届国际青年学者论坛—海洋学院分论坛](http://hyxy.hhu.edu.cn/2019/1014/c8634a197003/page.htm)
-- [南京信息工程大学60周年校庆活动暨2020年科技活动月——厦门大学刘志宇教授学术报告](https://ocean.nuist.edu.cn/info/1059/1888.htm)
+- [上海交通大学海洋学院 学术报告：大陆边缘动力学在大陆架划界技术中的最新应用进展](http://soo.sjtu.edu.cn/index_xsbg/4441.html)
 <!-- BLOG-POST-LIST:END -->
