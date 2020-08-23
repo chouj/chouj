@@ -12,7 +12,7 @@
 - [Luncheon Seminar #168: Year of Emergence of Ocean Acidification in the Global Ocean](https://mel.xmu.edu.cn/lecturefile.asp?id=684)
 - [MEL Seminar: Ulva has it all: Photosynthetic traits of an ultimate photosynthesiser](https://mel.xmu.edu.cn/lecturefile.asp?id=683)
 - [Luncheon Seminar #167: El Niño amplitude change and its link to the North Pacific climate variability](https://mel.xmu.edu.cn/lecturefile.asp?id=682)
-- [LASG学术报告：(8.11) Heavy Rainfall over China and Typhoon Activity in 2020: A Perspective ...](http://www.lasg.ac.cn/ky/xsbg/202008/t20200803_573307.html)
-- [LASG学术报告：(7.30) 基于多源多时相遥感数据的全球30米地表覆盖精细分类产品](http://www.lasg.ac.cn/ky/xsbg/202007/t20200727_571673.html)
-- [LASG学术报告：(7.28) 北京城区CO2浓度和通量时空分布特征](http://www.lasg.ac.cn/ky/xsbg/202007/t20200727_571672.html)
+- [【海韵大讲堂】世界海洋日专题报告：海洋观测预报与防灾减灾](http://hyxy.hhu.edu.cn/2020/0603/c8634a204884/page.htm)
+- [学术报告一百六十：为什么应激：勇敢和胆小的鱼儿的命运](http://hyxy.hhu.edu.cn/2020/0520/c8634a203986/page.htm)
+- [学术报告一百五十九：深海微生物多样性、功能与基因资源](http://hyxy.hhu.edu.cn/2020/0514/c8634a203741/page.htm)
 <!-- BLOG-POST-LIST:END -->
