@@ -12,7 +12,7 @@
 - [Luncheon Seminar #168: Year of Emergence of Ocean Acidification in the Global Ocean](https://mel.xmu.edu.cn/lecturefile.asp?id=684)
 - [MEL Seminar: Ulva has it all: Photosynthetic traits of an ultimate photosynthesiser](https://mel.xmu.edu.cn/lecturefile.asp?id=683)
 - [Luncheon Seminar #167: El Niño amplitude change and its link to the North Pacific climate variability](https://mel.xmu.edu.cn/lecturefile.asp?id=682)
-- [【海韵大讲堂】世界海洋日专题报告：海洋观测预报与防灾减灾](http://hyxy.hhu.edu.cn/2020/0603/c8634a204884/page.htm)
-- [学术报告一百六十：为什么应激：勇敢和胆小的鱼儿的命运](http://hyxy.hhu.edu.cn/2020/0520/c8634a203986/page.htm)
-- [学术报告一百五十九：深海微生物多样性、功能与基因资源](http://hyxy.hhu.edu.cn/2020/0514/c8634a203741/page.htm)
+- [【校庆十周年讲座系列】On the Ocean Health and Ocean Sustainability：Perspectives Towards Ecosystem-Based Ocean Management](https://ocean.sustech.edu.cn/views/details_lecture.html?id=286)
+- [【校庆十周年讲座系列】Carbon Processing in Aquatic Critical Zones: Biogeochemical Challenges in the 21st Century](https://ocean.sustech.edu.cn/views/details_lecture.html?id=285)
+- [【校庆十周年讲座系列】微生物与地球系统协同演化](https://ocean.sustech.edu.cn/views/details_lecture.html?id=282)
 <!-- BLOG-POST-LIST:END -->
