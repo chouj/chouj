@@ -1,5 +1,6 @@
 # 🌊 海洋学（物理、环境、气候方向）学术报告聚合
 <!-- BLOG-POST-LIST:START -->
+- [2020年第5次星火学术论坛](https://www.soed.org.cn/index.php/open/detail/1817)
 - [凌峰论坛第73讲：基金委共享航次的最佳实践](https://mel.xmu.edu.cn/lecturefile.asp?id=693)
 - [MEL Seminar: Unknown to Known: studies of coral-Symbiodiniaceae endo-symbiotic relationship](https://mel.xmu.edu.cn/lecturefile.asp?id=692)
 - [MEL Seminar: Inter-Connected Circulation Variability in the Tropical-Subtropical Northwestern Pacific Ocean](https://mel.xmu.edu.cn/lecturefile.asp?id=691)
@@ -14,5 +15,4 @@
 - [Luncheon Seminar #167: El Niño amplitude change and its link to the North Pacific climate variability](https://mel.xmu.edu.cn/lecturefile.asp?id=682)
 - [【校庆十周年讲座系列】On the Ocean Health and Ocean Sustainability：Perspectives Towards Ecosystem-Based Ocean Management](https://ocean.sustech.edu.cn/views/details_lecture.html?id=286)
 - [【校庆十周年讲座系列】Carbon Processing in Aquatic Critical Zones: Biogeochemical Challenges in the 21st Century](https://ocean.sustech.edu.cn/views/details_lecture.html?id=285)
-- [【校庆十周年讲座系列】微生物与地球系统协同演化](https://ocean.sustech.edu.cn/views/details_lecture.html?id=282)
 <!-- BLOG-POST-LIST:END -->
