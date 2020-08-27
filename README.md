@@ -1,5 +1,9 @@
 # 🌊 海洋学（物理、环境、气候方向）学术报告聚合
 <!-- BLOG-POST-LIST:START -->
+- [【校庆十周年讲座系列】On the Ocean Health and Ocean Sustainability：Perspectives Towards Ecosystem-Based Ocean Management](https://ocean.sustech.edu.cn/views/details_lecture.html?id=286)
+- [【校庆十周年讲座系列】Carbon Processing in Aquatic Critical Zones: Biogeochemical Challenges in the 21st Century](https://ocean.sustech.edu.cn/views/details_lecture.html?id=285)
+- [【校庆十周年讲座系列】微生物与地球系统协同演化](https://ocean.sustech.edu.cn/views/details_lecture.html?id=282)
+- [【校庆十周年讲座系列】Lattice Leg Soil Interaction Effects In Deeply Embedded Spudcan Foundations](https://ocean.sustech.edu.cn/views/details_lecture.html?id=281)
 - [【海韵大讲堂】世界海洋日专题报告：海洋观测预报与防灾减灾](http://hyxy.hhu.edu.cn/2020/0603/c8634a204884/page.htm)
 - [学术报告一百六十：为什么应激：勇敢和胆小的鱼儿的命运](http://hyxy.hhu.edu.cn/2020/0520/c8634a203986/page.htm)
 - [学术报告一百五十九：深海微生物多样性、功能与基因资源](http://hyxy.hhu.edu.cn/2020/0514/c8634a203741/page.htm)
@@ -11,8 +15,4 @@
 - [学术报告一百五十三：港澳大湾区水体和沉积物中微塑料污染的源汇分布格局及生态效应](http://hyxy.hhu.edu.cn/2019/1115/c8634a199355/page.htm)
 - [学术报告一百五十一：超细技术在军民领域的应用研究](http://hyxy.hhu.edu.cn/2019/1030/c8634a198355/page.htm)
 - [学术报告一百五十：因为珍稀，所以珍稀——保护长江“大鱼”中华鲟](http://hyxy.hhu.edu.cn/2019/1024/c8634a198019/page.htm)
-- [学术报告一百四十九：长江江豚保护40年：科学探索、进展和未来方向](http://hyxy.hhu.edu.cn/2019/1024/c8634a198018/page.htm)
-- [学术报告一百四十八：关键金属富集成矿机制](http://hyxy.hhu.edu.cn/2019/1011/c8634a196893/page.htm)
-- [学术报告一百四十七：河海大学第二届国际青年学者论坛—海洋学院分论坛](http://hyxy.hhu.edu.cn/2019/1014/c8634a197003/page.htm)
-- [全球变化科学紫荆论坛第336期：青藏高原气候变化及其对水循环的影响](http://www.dess.tsinghua.edu.cn/publish/ess/10541/2020/20200505091217916109982/20200505091217916109982_.html)
 <!-- BLOG-POST-LIST:END -->
