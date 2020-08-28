@@ -14,5 +14,5 @@
 - [全球变化科学紫荆论坛第330期：云物理及其与气溶胶相互作用](http://www.dess.tsinghua.edu.cn/publish/ess/10541/2019/20191220173047140621696/20191220173047140621696_.html)
 - [南京信息工程大学60周年校庆活动暨2020年科技活动月——复旦大学大气科学研究院王桂华教授专题报告](https://ocean.nuist.edu.cn/info/1059/1882.htm)
 - [全球变化科学紫荆论坛第329期：Global climate impacts of the Indian Ocean warming: some overlooked aspects](http://www.dess.tsinghua.edu.cn/publish/ess/10541/2019/20191216172516998406034/20191216172516998406034_.html)
-- [南京信息工程大学60周年校庆活动暨2020年科技活动月——中国海洋大学林霄沛教授学术报告](https://ocean.nuist.edu.cn/info/1059/1881.htm)
+- [LTO学术报告 2020-16](http://lto.scsio.ac.cn/xwtz/xsbg/202007/t20200729_572377.html)
 <!-- BLOG-POST-LIST:END -->
