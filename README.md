@@ -12,4 +12,7 @@
 - [全球变化科学紫荆论坛第327期：全球变化水文学与水资源可持续管理](http://www.dess.tsinghua.edu.cn/publish/ess/10541/2019/20191115133401049272156/20191115133401049272156_.html)
 - [全球变化科学紫荆论坛第326期：An Introduction to China Spatial Database and China Data Lab](http://www.dess.tsinghua.edu.cn/publish/ess/10541/2019/20191104094601534134912/20191104094601534134912_.html)
 - [全球变化科学紫荆论坛第325期：人类健康与环境的时空分析](http://www.dess.tsinghua.edu.cn/publish/ess/10541/2019/20191024162823740200422/20191024162823740200422_.html)
+- [南京信息工程大学60周年校庆活动暨2020年科技活动月——厦门大学刘志宇教授学术报告](https://ocean.nuist.edu.cn/info/1059/1888.htm)
+- [南京信息工程大学60周年校庆活动暨2020年科技活动月——国防科技大学张韧教授学术报告](https://ocean.nuist.edu.cn/info/1059/1887.htm)
+- [南京信息工程大学60周年校庆活动暨2020年科技活动月——海洋高端论坛（六）遥感数据应用](https://ocean.nuist.edu.cn/info/1059/1886.htm)
 <!-- BLOG-POST-LIST:END -->
