@@ -12,7 +12,7 @@
 - [Luncheon Seminar #168: Year of Emergence of Ocean Acidification in the Global Ocean](https://mel.xmu.edu.cn/lecturefile.asp?id=684)
 - [MEL Seminar: Ulva has it all: Photosynthetic traits of an ultimate photosynthesiser](https://mel.xmu.edu.cn/lecturefile.asp?id=683)
 - [Luncheon Seminar #167: El Niño amplitude change and its link to the North Pacific climate variability](https://mel.xmu.edu.cn/lecturefile.asp?id=682)
-- [2020年第6次星火学术论坛](https://www.soed.org.cn/index.php/open/detail/1820)
-- [2020年第5次星火学术论坛](https://www.soed.org.cn/index.php/open/detail/1817)
-- [2020年第4次星火学术论坛](https://www.soed.org.cn/index.php/open/detail/1813)
+- [LASG学术报告：(8.11) Heavy Rainfall over China and Typhoon Activity in 2020: A Perspective ...](http://www.lasg.ac.cn/ky/xsbg/202008/t20200803_573307.html)
+- [LASG学术报告：(7.30) 基于多源多时相遥感数据的全球30米地表覆盖精细分类产品](http://www.lasg.ac.cn/ky/xsbg/202007/t20200727_571673.html)
+- [LASG学术报告：(7.28) 北京城区CO2浓度和通量时空分布特征](http://www.lasg.ac.cn/ky/xsbg/202007/t20200727_571672.html)
 <!-- BLOG-POST-LIST:END -->
