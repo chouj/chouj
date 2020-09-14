@@ -1,5 +1,6 @@
 # 🌊 海洋学（物理、环境、气候方向）学术报告聚合
 <!-- BLOG-POST-LIST:START -->
+- [上海交通大学海洋学院 学术报告：Deep-sea corals: new archive of past ocean chemistry](http://soo.sjtu.edu.cn/index_xsbg/4496.html)
 - [LASG学术报告：(9.15) 海洋次中尺度过程及其参数化](http://www.lasg.ac.cn/ky/xsbg/202009/t20200911_580153.html)
 - [LASG学术报告：(8.11) Heavy Rainfall over China and Typhoon Activity in 2020: A Perspective ...](http://www.lasg.ac.cn/ky/xsbg/202008/t20200803_573307.html)
 - [LASG学术报告：(7.30) 基于多源多时相遥感数据的全球30米地表覆盖精细分类产品](http://www.lasg.ac.cn/ky/xsbg/202007/t20200727_571673.html)
@@ -14,5 +15,4 @@
 - [LASG学术报告：(12.30) Development of Optimized Radar Data Assimilation Capability within th...](http://www.lasg.ac.cn/ky/xsbg/201912/t20191219_534286.html)
 - [LASG学术报告：(12.27) Thermodynamic and Dynamic Mechanisms for Hydrological Cycle Intensifi...](http://www.lasg.ac.cn/ky/xsbg/201912/t20191219_534285.html)
 - [LASG学术报告：(12.19) 青藏高原积雪变化及其影响](http://www.lasg.ac.cn/ky/xsbg/201912/t20191214_533026.html)
-- [LASG学术报告：(12.19) Global climate impacts of the Indian Ocean warming: some overlooked a...](http://www.lasg.ac.cn/ky/xsbg/201912/t20191214_533025.html)
 <!-- BLOG-POST-LIST:END -->
