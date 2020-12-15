@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
-    # - cron: '0 1/4 * * *'
+    - cron: '0 1/4 * * *'
 
 jobs:
   update-readme-with-blog:
@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "15"
-          feed_list: "https://node2.feed43.com/nuistsmsweeklyseminar.xml,https://node2.feed43.com/tsinghuadessseminar.xml,https://node2.feed43.com/hohaicooseminar.xml,https://node2.feed43.com/sjtusooseminar.xml,https://node2.feed43.com/sustechdoseseminar.xml,https://node2.feed43.com/klocwqdioseminar.xml,https://node2.feed43.com/ltoweeklyseminar.xml,https://node2.feed43.com/soedseminar.xml,https://node2.feed43.com/lasgseminar.xml,https://node2.feed43.com/mellecture.xml"
+          feed_list: "https://raindrop.io/collection/15230711/feed"
