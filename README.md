@@ -1,5 +1,6 @@
 # 🌊 海洋学（物理、环境、气候方向）学术报告聚合
 <!-- BLOG-POST-LIST:START -->
+- [LASG成立35周年暨2020年度学术年会日程表](https://mp.weixin.qq.com/s/MZVZwAKuXZo3obJnynPmVQ)
 - [学术报告 | 波浪滑翔器技术及其海洋观测应用](https://mp.weixin.qq.com/s/Ickc0W4MaCC7F6QhyIA6GA)
 - [【学术预告】第7期珠海海洋论坛活动预告 BGC-Argo Observations in the Pacific Ocean and Biogeochemical Modeling](https://mp.weixin.qq.com/s?__biz=MzI1OTM0OTY5NQ==&mid=2247487873&idx=1&sn=0938ffd71a8db14982b57b35f60c651c&scene=21#wechat_redirect)
 - [海洋涡旋和锋面对天气系统的影响及其机理 - MGF半月谈](https://mp.weixin.qq.com/s/z66WsKVNus1EHAc0IlREhA)
