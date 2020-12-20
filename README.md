@@ -2,11 +2,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [MGF005 海洋涡旋和锋面对北太平洋天气系统的影响及其机理-马晓慧教授 - 海洋地学论坛](https://www.bilibili.com/video/BV1ga4y1p7n3?from=search&seid=158625551681002035)
 - [My iEarth "Christmas Lecture" on #KitchenOceanography - Adventures in Oceanography and Teaching](https://mirjamglessmer.com/2020/12/19/my-iearth-christmas-lecture-on-kitchenoceanography/)
-- [LASG成立35周年暨2020年度学术年会日程表](https://mp.weixin.qq.com/s/MZVZwAKuXZo3obJnynPmVQ)
-- [学术报告 | 波浪滑翔器技术及其海洋观测应用](https://mp.weixin.qq.com/s/Ickc0W4MaCC7F6QhyIA6GA)
-- [【学术预告】第7期珠海海洋论坛活动预告 BGC-Argo Observations in the Pacific Ocean and Biogeochemical Modeling](https://mp.weixin.qq.com/s?__biz=MzI1OTM0OTY5NQ==&mid=2247487873&idx=1&sn=0938ffd71a8db14982b57b35f60c651c&scene=21#wechat_redirect)
-- [海洋涡旋和锋面对天气系统的影响及其机理 - MGF半月谈](https://mp.weixin.qq.com/s/z66WsKVNus1EHAc0IlREhA)
-- [海洋和全球变化：全球能量和水循环的海洋印记](http://www.dess.tsinghua.edu.cn/publish/ess/10541/2020/20201214162637526450455/20201214162637526450455_.html)
+- [[12.24-25] LASG成立35周年暨2020年度学术年会日程表](https://mp.weixin.qq.com/s/MZVZwAKuXZo3obJnynPmVQ)
+- [[12.23] 学术报告 | 波浪滑翔器技术及其海洋观测应用](https://mp.weixin.qq.com/s/Ickc0W4MaCC7F6QhyIA6GA)
 <!-- BLOG-POST-LIST:END -->
 
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/collection/15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
