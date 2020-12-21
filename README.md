@@ -1,5 +1,6 @@
 # 🌊 海洋学（物理、环境、气候方向）学术报告聚合
 <!-- BLOG-POST-LIST:START -->
+- [夏季北大西洋涛动及周边地区气候的季节可预报性、北半球平流层极涡对热带对流活动的影响-复旦大学大气与海洋 科学系](https://aos.fudan.edu.cn/c8/13/c16806a247827/page.htm)
 - [MGF005 海洋涡旋和锋面对北太平洋天气系统的影响及其机理-马晓慧教授 - 海洋地学论坛](https://www.bilibili.com/video/BV1ga4y1p7n3?from=search&seid=158625551681002035)
 - [My iEarth "Christmas Lecture" on #KitchenOceanography - Adventures in Oceanography and Teaching](https://mirjamglessmer.com/2020/12/19/my-iearth-christmas-lecture-on-kitchenoceanography/)
 - [[12.24-25] LASG成立35周年暨2020年度学术年会日程表](https://mp.weixin.qq.com/s/MZVZwAKuXZo3obJnynPmVQ)
