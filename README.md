@@ -1,5 +1,6 @@
 # 🌊 海洋学（物理、环境、气候方向）学术报告聚合
 <!-- BLOG-POST-LIST:START -->
+- [MGF半月谈006期 长江冲淡水锋面动力过程及环境效应](https://mp.weixin.qq.com/s/il2FY1jsmJYgJLvJs43lTw)
 - [东海学术论坛第八期——宋贵生博士学术报告 南海北部及吕宋海峡DOM分布特征与降解活性](https://mp.weixin.qq.com/s/AWY51u-t-M89iYhkCNPHkA)
 - [【12.22】 LTO学术报告 | 中尺度涡时空结构的统一性](https://mp.weixin.qq.com/s/nXjEj88Nl_zQLotn1o1MYQ)
 - [上海交大海洋学院 | 南大洋上升流、地球倾角周期和冰期-间冰期二氧化碳变化](https://mp.weixin.qq.com/s/SfaH7qG1kWXr-8xXBJFcDA)
