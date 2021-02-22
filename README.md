@@ -3,7 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/collection/15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
-- [学术报告 | 海洋环境中一碳化合物的生物地球化学过程及其在元素循环中的意义](https://mp.weixin.qq.com/s/8umO07f6MavE9lxh1jlzYA)
+- [庄光超：海洋环境中一碳化合物的生物地球化学过程及其在元素循环中的意义 | 上交海洋学院](https://mp.weixin.qq.com/s/8umO07f6MavE9lxh1jlzYA)
 - [唐丹玲：全球环境变化与台风"风泵"的南海生态效应探讨 | MGF半月谈009期](https://mp.weixin.qq.com/s/47FxHp9mFwbt9P045dZIWA)
 - [Ryan Abernathey: Unlocking the Potential of Cloud Native Science](https://vimeo.com/507612164)
 - [物理海洋学：斯堪的那纳维亚的贡献](https://mp.weixin.qq.com/s/SharhUmtFljKbCSqR6O2eQ)
