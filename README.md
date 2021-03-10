@@ -4,7 +4,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [精品报告 | 气科院-南信大 “次季节-季节研究联合中心” 2020年第五届研讨会（录屏-2）](https://mp.weixin.qq.com/s/21cZHWhjTgn3TIk7Wau1nw)
-- [MGF半月谈010期今晚开讲啦~](https://mp.weixin.qq.com/s/XG4VkR3pVd2rMMhx0-luLg)
+- [孙启良：南海北部珠江口盆地海底滑坡及其触发海啸 | MGF半月谈010期](https://mp.weixin.qq.com/s/XG4VkR3pVd2rMMhx0-luLg)
 - [气科院-南信大 “次季节-季节研究联合中心” 2020年第五届研讨会（录屏1）](https://mp.weixin.qq.com/s/QlnZyHVom9WfaSP3Tz_X0A)
 - [翟惟东：渤黄海富营养化研究进展：缺氧、酸化、营养盐来源、动态变化 | 上交海洋学院](https://mp.weixin.qq.com/s/xgkHfZ44N97t5xXtIBcOvg)
 - [王春在：从三大洋看西北太平洋反气旋 | LASG成立35周年暨2020年度学术年会视频回顾](https://mp.weixin.qq.com/s/GJI5tkJ8wTLVlCKwQhcWHA)
