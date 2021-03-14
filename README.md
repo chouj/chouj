@@ -14,4 +14,4 @@
 - [翟惟东：渤黄海富营养化研究进展：缺氧、酸化、营养盐来源、动态变化 | 上交海洋学院](https://mp.weixin.qq.com/s/xgkHfZ44N97t5xXtIBcOvg)
 <!-- BLOG-POST-LIST:END -->
 
-###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/). Cheers.
+###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
