@@ -3,7 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/collection/15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
-- [预告-2 | 2021.3.26 陈大可：物理海洋学漫谈（院士讲座）](https://mp.weixin.qq.com/s/ZDCyB-IVGxHXAcyveLThgg)
+- [陈大可：物理海洋学漫谈 | 北大物理学院学术论坛](https://mp.weixin.qq.com/s/ZDCyB-IVGxHXAcyveLThgg)
 - [秦为稼：南极考察站的科学使命 | 第8期珠海海洋论坛](https://mp.weixin.qq.com/s/VK5W0_M5ucI6XA9yEO_7bg)
 - [Xiao-Ming Liu: Chemical Weathering of Lands and Oceans | Luncheon Seminar #192](https://mp.weixin.qq.com/s/OCN8NAzDqr-xS7I3g-1ZgA)
 - [Joel Hirschi：The Atlantic Meridional Overturning Circulation in High Resolution Models](https://www.youtube.com/watch?v=CcQ4qCV2L_U)
