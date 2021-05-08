@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/collection/15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [LTO国家重点实验室特邀报告（2021-11）](https://mp.weixin.qq.com/s/PbDonePDaC7sY0PtK629Eg)
 - [刘金贵：典型河口盐度输运过程和业务化数值预报系统 | LTO学术报告](https://mp.weixin.qq.com/s/czZ5I9Dw1zIxWoYQVGrJtw)
 - [刘征宇：A Theory for Seasonal Predictability Barrier | 中国海洋大学未来海洋学院](https://mp.weixin.qq.com/s/ZszMS0ZTiz_s2SnL5DAyHw)
 - [梁长荣：西太平洋湍流混合参数化研究 | 张旭：黑潮延伸体海域典型涡旋的次中尺度动力环境特征分析 - LTO学术报告](https://mp.weixin.qq.com/s/byK5Qs18-iHTYGFbCzxY0Q)
@@ -11,7 +12,6 @@
 - [王瑞：中国海道测量的昨天今天明天 | 新南海学术论坛第14期](https://mp.weixin.qq.com/s/JLXkeSWrT8L6Gf6tg86T-A)
 - [钟文秀: The Seasonal Alternate Roles of the North Pacific and the South Pacific in the Equatorial Pacific Zonal Winds and ENSO | 舒婵: Parameter optimization of marine biogeochemical model by using satellite and BGC-Argo observations in the northern South China Sea - LTO学术报告](https://mp.weixin.qq.com/s/yG93u7T_iq5g9fE4Z656qg)
 - [凌峰论坛第79讲 | 台湾海峡海-陆界面生态系统连通性和长期演变的观测与研究](https://mp.weixin.qq.com/s/NHWgimOOXzP-YwehtCOSyw)
-- [雷瑞波：海冰热力学和动力学过程浮标组网观测研究 -【海韵大讲堂】第一百九十一期](https://mp.weixin.qq.com/s/ZmR-EpFGbrZjWGx1D9T4Eg)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
