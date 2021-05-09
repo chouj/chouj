@@ -3,7 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/collection/15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
-- [LTO国家重点实验室特邀报告（2021-11）](https://mp.weixin.qq.com/s/PbDonePDaC7sY0PtK629Eg)
+- [林霄沛：海洋年代际的记忆力 | LASG](https://mp.weixin.qq.com/s/0UOv1l_wKgEno1MFeLfMLQ)
 - [刘金贵：典型河口盐度输运过程和业务化数值预报系统 | LTO学术报告](https://mp.weixin.qq.com/s/czZ5I9Dw1zIxWoYQVGrJtw)
 - [刘征宇：A Theory for Seasonal Predictability Barrier | 中国海洋大学未来海洋学院](https://mp.weixin.qq.com/s/ZszMS0ZTiz_s2SnL5DAyHw)
 - [梁长荣：西太平洋湍流混合参数化研究 | 张旭：黑潮延伸体海域典型涡旋的次中尺度动力环境特征分析 - LTO学术报告](https://mp.weixin.qq.com/s/byK5Qs18-iHTYGFbCzxY0Q)
