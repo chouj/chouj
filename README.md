@@ -1,6 +1,6 @@
 # 🌊 Webinars in the field of (Physical) Oceanography
 
-[![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/collection/15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
+[![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
 - [张双尚博士学位论文答辩公告 ：苏北浅滩浅海地形SAR成像机制与智能遥感探测研究 | 河海大学海洋学院](https://mp.weixin.qq.com/s/oYDbKGAsOukL2yQeM4RpYw)
