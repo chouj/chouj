@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [星火论坛 | 2021年第14次学术论坛通知（召集人:何贤强）](https://mp.weixin.qq.com/s/i5ifnT_0AY4oQPjEmjN7TQ)
 - [张文霞：基于时间尺度计算分析长江口外的低氧现象 星火论坛](https://mp.weixin.qq.com/s/--CxOjGagdjxUcvYJO8-Jw)
 - [申锦瑜：海流和海浪相互作用的研究 | 胡爱学：不同海盆间年代际和多年代际海表温度振荡的相互作用- LTO国家重点实验室特邀报告](https://mp.weixin.qq.com/s/qF2AYPUxAFdsgyYDVpovJg)
 - [张双尚博士学位论文答辩公告 ：苏北浅滩浅海地形SAR成像机制与智能遥感探测研究 | 河海大学海洋学院](https://mp.weixin.qq.com/s/oYDbKGAsOukL2yQeM4RpYw)
@@ -11,7 +12,6 @@
 - [直播预告 | 樊炜：瞄准碳中和，解码海洋人工上升流方案](https://mp.weixin.qq.com/s/QctzMqDNK18iuK-0VxjT9A)
 - [葛建忠：多空间尺度东中国海长江口物理-生物地球化学数值模拟系统 | 新南海学术论坛第17期](https://mp.weixin.qq.com/s/EmNSbHEJsW1X3DMLNpEJfA)
 - [张钰：Pacific Meridional Modes without Equatorial Pacific Influence | 蔚蓝空间大气科学研究生论坛](https://mp.weixin.qq.com/s/nZKMZGedSA8oCfI_lB0QlQ)
-- [袁野平：河口羽流扩展与混合的地球流体力学实验研究 | MGF半月谈015期](https://mp.weixin.qq.com/s/Iuc2u7DovGSgJLOM9-hJ9Q)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
