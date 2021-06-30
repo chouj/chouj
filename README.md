@@ -4,7 +4,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [林佩蓉: 全球天然河川径流重建 | HydroTalks](https://mp.weixin.qq.com/s/extAYAoJFAPfD3Qsz_5p6g)
-- [龚延昆：远场内潮对陆架海域内波的影响 | 杨泽明：海水营养盐高灵敏度原位快速分析仪的研制与应用 - LTO国重室报告](https://mp.weixin.qq.com/s/D4WCsDD5ayRCklj1jb7osQ)
+- [龚延昆：远场内潮对陆架海域内波的影响 | 杨泽明：海水营养盐高灵敏度原位快速分析仪的研制与应用 - LTO国重室报告](https://mp.weixin.qq.com/s/lyI19Ksip8-0qHYVqIbCtQ)
 - [SOED海星公开课《海洋中尺度涡旋探测分析及涡旋动力学》火热报名中！](https://mp.weixin.qq.com/s/wyKPBUPgTy07F7JVeVhvhw)
 - [陈志宏：Impact of Tibetan Plateau on North African precipitation | 唐韬：Over-projected Pacific warming and extreme El Nino frequency due to CMIP5 common biases - 蔚蓝空间大气科学研究生论坛](https://mp.weixin.qq.com/s/X3tVAo8cgds3dFcZAg0h5Q)
 - [【直播】“地球系统数值模拟装置”落成启用暨装置未来发展和应用研讨会 | 中科院大气所](http://www.iap.cas.cn/gb/xwdt/tzgg/202106/t20210621_6115001.html)
