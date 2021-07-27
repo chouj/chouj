@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [李忠平，解剖水色：从人眼到天眼 | 【智慧地球大讲堂】第六十期：](https://mp.weixin.qq.com/s/JA5EvoIweZbtNSwXDpCTAg)
 - [南海内孤立波与水下潜体相互作用的流固耦合研究| LTO国家重点实验室学术报告](https://mp.weixin.qq.com/s/RH3xYUdq050XLJp7L36CrQ)
 - [杨博雷：辐射反馈与热带气旋生成 - 蔚蓝空间|大气科学研究生论坛](https://mp.weixin.qq.com/s/Zjn6kCLtvZgQp3kVAcmgoA)
 - [田丰：热带太平洋浮游植物叶绿素对气候的响应及反馈|LTO国家重点实验室学术报告](https://mp.weixin.qq.com/s/RyQ_UB7pSlcuDKvSlbXjHw)
@@ -11,7 +12,6 @@
 - [线上会议：“数值模式发展及应用” 研讨会 | 甘肃省气候资源开发及防灾减灾重点实验室学术年会](https://mp.weixin.qq.com/s/c2g9byw3SIwZXQSAbmRguw)
 - [陈荔：科研潜水——挑战与机遇 | 上交海洋学院](https://mp.weixin.qq.com/s/iZELreAmG84j1wQxlrVCaQ)
 - [中山大学2021年空天地海智能感知技术暑期学校](https://mp.weixin.qq.com/s/_lHLEpPGTcG1SEkezO9fMw)
-- [朱广翔：人工智能前沿话题 |大气所青云论坛第十七期](https://www.koushare.com/lives/room/565867?code=0712u7ml2Hx0m74879nl2aZFJ502u7mZ&state=kousharelogin)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
