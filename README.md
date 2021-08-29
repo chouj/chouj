@@ -3,6 +3,8 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [李荣兴:极地多圈层作用与全球海平面变化 | 《遥感学报》梧桐会学术报告](https://mp.weixin.qq.com/s/gQsZoFGl41E4gHLA3kG_NQ)
+- [第四期《卫星海洋学》慕课课程](https://mp.weixin.qq.com/s/LkkuwXXhNPLOq9HmJ9sdXw)
 - [林朝晖:中国科学院地球系统模式CAS-ESM的研发与应用 | 【智慧地球大讲堂】](https://mp.weixin.qq.com/s/4HAL_1hISUZ5Y_iHAzHDuA)
 - [冯炼：长江中下游湖泊水环境遥感研究进展 | 南方科技大学 MGF半月谈022期](https://mp.weixin.qq.com/s/hKvOgh1vQk3VMwVLoCezpg)
 - [谢立安：Forecasting Atlantic hurricane activities from a season to a year in advance:the magical power and the limitations of Machine Learning | 张韧：海洋缺损资料插补与三维温盐场重构 - LTO国家重点实验室特邀学术报告](https://mp.weixin.qq.com/s/a51LkEvn4TuRRciXuywioQ)
@@ -10,8 +12,6 @@
 - [【会议通知】2021年广东海洋大学海洋科学青年创新论坛](https://mp.weixin.qq.com/s/CZNlRbDt7MzuzE59_WDQdQ)
 - [【直播】权威解读：IPCC第六次评估报告第一工作组报告](https://mp.weixin.qq.com/s/N0k9zqFlUUW6uuoH6VwRtw)
 - [董昌明：迎接海洋大数据驱动的人工智能海洋学新时代 | 【智慧地球大讲堂】第六十五期](https://mp.weixin.qq.com/s/iO2r7JXdSwSWoIHK5JF5bQ)
-- [第 20 届全国水色遥感大会 |《遥感学报》梧桐会直播](https://mp.weixin.qq.com/s/RqwJhFlnBYxdCIGorzuhRA)
-- [柳中晖：北大西洋径向翻转流的早期演化历史 | 中大海洋科学学术讲座](https://meeting.tencent.com/s/GzvAbpxLUSiT)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
