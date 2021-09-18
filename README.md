@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [【直播】SAR大数据时代：模型、方法与应用](https://mp.weixin.qq.com/s/oe4yC47UEBlmkDHL8PdAhw)
 - [成里京：从海洋看全球变化——观测、数据集和变化机制 | 【智慧地球大讲堂】第七十五期：](https://mp.weixin.qq.com/s/F93kmfaEX0F-j6wuR3yYyg)
 - [梁宝玲： Source apportionment of marine atmospheric aerosols in northern South China Sea during summertime 2018 |蔚蓝空间 大气科学论坛第31期在线报告（09.19）](https://mp.weixin.qq.com/s/AkRwv9MVlVTqr9dWNxwCYQ)
 - [张威：气候预报中的信噪比悖论 | 曾凯：In situ hyperspectral characteristics and the discriminative ability of remote sensing to coral species in the SCS - LTO国家重点实验室特邀学术报告2021-32](https://mp.weixin.qq.com/s/EGbE0Pl41Z9zNsjPUqKlxw)
@@ -11,7 +12,6 @@
 - [联合国海洋十年第二实验室“可预测的海洋”](https://mp.weixin.qq.com/s/d5-FUSHi-LPf5Fg2gd3EoQ)
 - [王锦龙: 放射性核素在陆海相互过程研究当中的应用 | “潮新论坛”第六期](https://mp.weixin.qq.com/s/34Ejpm2-dmVXZznjpDf6jA)
 - [陆春晖：极端温度长期变化特征和中国区域极端温度事件的检测归因 | 冯娟：北印度洋和北大西洋暖海温对El Nino年夏季西北太平洋异常反气旋影响的差异及其机理-中国科学院大气物理研究所](http://www.iap.cas.cn/gb/xwdt/xshd/202109/t20210910_6200125.html)
-- [Maike Paul：波流共同作用下柔性植被区水动力特征 | 中山大学海洋科学学院](https://marine.sysu.edu.cn/event/8694)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
