@@ -3,6 +3,8 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [何庆友：中尺度涡致浮游植物叶绿素扰动：生物量变化还是生理学响应？ | 杨一凯：How much heat and salt are transported into the SCS by mesoscale eddies ? - LTO国家重点实验室学术报告2021-34](https://mp.weixin.qq.com/s/tnPCQZZQjyqz3RvFU7Ab1Q)
+- [沪上海洋-青年科学家论坛](https://mp.weixin.qq.com/s/AtpTmsLUCdL_uyVvI7rUNA)
 - [周天军：从气候变化到碳中和 | “科学与中国”云讲堂](https://mp.weixin.qq.com/s/khvDA0ZVdiIARKGWH9tmZQ)
 - [陶军：国家深海科学研究开放共享平台：“海马”号深海遥控潜水器|田冬梅：海域天然气水合物识别及饱和度估计方法|李沅衡：海洋地震勘探数据处理方法 - 广州海洋实验室第四届“南海纵横学术沙龙”会议](https://mp.weixin.qq.com/s/28Zvn2u6mjKWmRAyRqhwPw)
 - [倪钦彪：海洋涡旋随机运动 | 杨智斌：南海北部小尺度地形作用——涡旋耗散和涡旋尺度 - LTO国家重点实验室学术报告2021-33](https://mp.weixin.qq.com/s/vJtnzkIMcc0CPwBE8LtjXg)
@@ -10,8 +12,6 @@
 - [董昌明：海洋次中尺度运动及其对海洋生态和沉积输运过程的影响|南京信息工程大学MGF半月谈024期](https://mp.weixin.qq.com/s/oxLz8g1FTQlNDI-vFmU9MQ)
 - [【直播】SAR大数据时代：模型、方法与应用](https://mp.weixin.qq.com/s/oe4yC47UEBlmkDHL8PdAhw)
 - [成里京：从海洋看全球变化——观测、数据集和变化机制 | 【智慧地球大讲堂】第七十五期：](https://mp.weixin.qq.com/s/F93kmfaEX0F-j6wuR3yYyg)
-- [梁宝玲： Source apportionment of marine atmospheric aerosols in northern South China Sea during summertime 2018 |蔚蓝空间 大气科学论坛第31期在线报告（09.19）](https://mp.weixin.qq.com/s/AkRwv9MVlVTqr9dWNxwCYQ)
-- [张威：气候预报中的信噪比悖论 | 曾凯：In situ hyperspectral characteristics and the discriminative ability of remote sensing to coral species in the SCS - LTO国家重点实验室特邀学术报告2021-32](https://mp.weixin.qq.com/s/EGbE0Pl41Z9zNsjPUqKlxw)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
