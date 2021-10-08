@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [熊雅婷：Climatology and interannual variability of atmospheric rivers and their impact on precipitation over East Asia-North Pacific region | 孙越：North Atlantic Oscillation effect on interannual variability in winter precipitation over the Gulf Stream - 蔚蓝空间|大气科学论坛第32期在线报告（10.10）](https://mp.weixin.qq.com/s/THlhk4cwB_9g6roppH2egA)
 - [Erik Horstman: 红树林生态韧性对海岸环境安全的作用 | 南方海洋实验室](https://mp.weixin.qq.com/s/o0jJgEvvc-BgiPZQmfnnBA)
 - [张宇：海洋仿生机器人及智能探测 | 厦大海洋媒体实验室](https://mp.weixin.qq.com/s/F2aJO1hWrH9uCLtB4TUnBw)
 - [蔡卫君：Carbon Cycle, CO2 Fluxes, and Ocean Acidification in Coastal Ocean Waters | 广州海洋实验室香港分部杰出学者讲座通知【20210930】](https://mp.weixin.qq.com/s/Iqcj2Y5hDirpj2__77CP2Q)
@@ -11,7 +12,6 @@
 - [沪上海洋-青年科学家论坛](https://mp.weixin.qq.com/s/AtpTmsLUCdL_uyVvI7rUNA)
 - [周天军：从气候变化到碳中和 | “科学与中国”云讲堂](https://mp.weixin.qq.com/s/khvDA0ZVdiIARKGWH9tmZQ)
 - [陶军：国家深海科学研究开放共享平台：“海马”号深海遥控潜水器|田冬梅：海域天然气水合物识别及饱和度估计方法|李沅衡：海洋地震勘探数据处理方法 - 广州海洋实验室第四届“南海纵横学术沙龙”会议](https://mp.weixin.qq.com/s/28Zvn2u6mjKWmRAyRqhwPw)
-- [倪钦彪：海洋涡旋随机运动 | 杨智斌：南海北部小尺度地形作用——涡旋耗散和涡旋尺度 - LTO国家重点实验室学术报告2021-33](https://mp.weixin.qq.com/s/vJtnzkIMcc0CPwBE8LtjXg)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
