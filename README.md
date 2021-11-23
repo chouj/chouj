@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [王显威：极地冰川变化与冰川-海洋交互作用 | 【直播】【《遥感学报》梧桐会学术报告】](https://mp.weixin.qq.com/s/pcwb2KKhk2GiKRBZ9EW8VA)
 - [热带海洋环境变化国际会议](https://zoom.us/j/9683851799)
 - [王桂华：台风海洋相互作用及其预报思考 | MGF半月谈028期](https://mp.weixin.qq.com/s/TSDyWOEmyz76WOgLB5tvXA)
 - [湍流起源 | 太湖实验室学术讲座预告](https://mp.weixin.qq.com/s/yMXrgGUOisDJVCpjuVtADA)
@@ -11,7 +12,6 @@
 - [IMBeR West Pacific Symposium 2021 线上参会通道](https://mp.weixin.qq.com/s/ShQIJUKzoIuTJYykUxX_yw)
 - [傅刚：北半球爆发性气旋的特征 | 海洋气象系列报告](https://aos.fudan.edu.cn/65/31/c14897a419121/page.htm)
 - [第二届“未来科学家”——全国研究生“海洋与气候”学术论坛日程](https://mp.weixin.qq.com/s/vmKafffz4xC37jAuS3eakg)
-- [蔡卫君：海冰的消失调控了北冰洋西部夏季二氧化碳年代际增加和海洋酸化速率](https://mp.weixin.qq.com/s/S72B37TQ-RykQ4_P2A3MEw)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
