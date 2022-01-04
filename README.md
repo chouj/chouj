@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [2021年广东海洋大学海洋科学学科与实验室年会](https://mp.weixin.qq.com/s/8GYkhR1ilaYLEua9HaIOOA)
 - [谢皆烁：南海北部大尺度环流对内孤立波的调制规律 | 郭炜豪：Impacts of Diverse El Nino Events on North Tropical Atlantic Warming in their Decaying Springs - LTO国家重点实验室学术报告2021-42](https://mp.weixin.qq.com/s/oDP2Dlbib2gUp6xLo_TpJw)
 - [奚民伟: 海洋测绘技术的应用与发展 | 【智慧地球大讲堂】第103期](https://mp.weixin.qq.com/s/enlX_XTx373c3TExAwSidw)
 - [陈显尧：大西洋经向翻转环流变异及其与全球气候变化的关系 |【学术报告通知】海洋与气象学院“海学论坛”（第三十一期）](https://mp.weixin.qq.com/s/NiaSrnhuW1znin1VoYk62A)
@@ -11,7 +12,6 @@
 - [肖福安：超强厄尔尼诺事件影响下南海的响应特征及机制差异对比 | 星火论坛2021年第49次学术论坛通知（召集人：吴巧燕）](https://mp.weixin.qq.com/s/oO93Dq0jjQRGw9Nf9HY29w)
 - [程晓：极地观测与探测：现状与展望 | 全球变化科学紫荆论坛第375期](https://mp.weixin.qq.com/s/gXct9gSOw0owk0OndVBCeg)
 - [巫明娜：A very likely weakening of Pacific Walker Circulation in constrained near-future projections | 蔚蓝空间大气科学论坛第37期在线报告（12.19）](https://mp.weixin.qq.com/s/SBVVU0xIiqO00eXZa4o4sQ)
-- [高学杰: 全球变暖，人们会感到温度越来越舒适吗 | 【智慧地球大讲堂】第101期](https://mp.weixin.qq.com/s/WogRK8zW2ZMvF3X0RiS0GA)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
