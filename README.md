@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [刘雨立：海滨裂流预警系统的研发 | 【学术预告】学术讲座预告第90期](https://mp.weixin.qq.com/s/OCRx9WEsPJORhyIXMrq94A)
 - [闫晓梅: 台湾以东涡流相互作用过程的能量学研究 | 海星学术论坛 2022年第3次会议通知（召集人：刘晓辉）](https://mp.weixin.qq.com/s/bZzuxuduWjKnQngoNKbIcg)
 - [李晓峰：人工智能海洋学研究新进展](https://mp.weixin.qq.com/s/I7Rof5nwwLhevpXShBhJ_g)
 - [谢金翰：海洋中的双向能量跨尺度传输](https://mp.weixin.qq.com/s/PooxIGP9B1Mrbuuc72Ax8w)
@@ -11,7 +12,6 @@
 - [活动预告|地球系统科学论坛:诺贝尔奖和气候变化科学](https://mp.weixin.qq.com/s/TNATp2KJ9MQbVEFvZhRtrQ)
 - [黄瑞新：我在科学大观园的经历 | MGF半月谈032期](https://mp.weixin.qq.com/s/VtALUYU6Y0gA-9AqNjgE3Q#/)
 - [关于召开海洋观测资料和技术研讨会的通知](https://mp.weixin.qq.com/s/qcDU0ncSMsctNulPLkizRg#/)
-- [胡石建：热带西太平洋次表层海洋热浪：观测证据与形成机制 | 海星学术论坛 - 2022年第2次会议通知（召集人：连涛）](https://mp.weixin.qq.com/s/0s-n7fIrlX7HO35EPJLESQ#/)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
