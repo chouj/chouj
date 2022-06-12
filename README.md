@@ -3,7 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
-- [【学术会议通知】关于举办“陆架浅海动力学及生态效应” 讲习班的通知（第三轮）-广东海洋大学海洋与气象学院](https://hyqx.gdou.edu.cn/info/1063/3084.htm)
+- [关于举办“陆架浅海动力学及生态效应” 讲习班的通知（第三轮）-广东海洋大学海洋与气象学院](https://hyqx.gdou.edu.cn/info/1063/3084.htm)
 - [魏云涛：Modulation of ENSO on MJO Eastward Propagation and Vertical Structure | LTO国家重点实验室学术报告2022-14](https://mp.weixin.qq.com/s/Q4dcWyMvYdi0hVroHMIUQg)
 - [Suam Kim：Climate Change Impacts on Marine Ecosystems Focusing on Marine Fisheries | 未来海洋讲坛第37期](https://mp.weixin.qq.com/s/Ex-ryFWivCi0GpUKZsm5bA)
 - [Frederik J. Simons：Twenty-Thousand Leagues Under the Sea with a Fleet of Seismic Robots | 未来海洋讲坛第36期](https://mp.weixin.qq.com/s/baD_0Vr5VRCtREPKwOZpag)
