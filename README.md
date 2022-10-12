@@ -3,15 +3,15 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [徐芳华：海洋中尺度涡垂向倾斜初探 | “潮新论坛”第23期 清华大学](https://mp.weixin.qq.com/s/mtfG71iTEsd-PzaLR-xYtA)
+- [陈长霖： ​西北太平洋及中国近海海平面上升预估 | LASG 学术报告](https://mp.weixin.qq.com/s/5eYvG6Gz8dGzOMWQKBL-SQ)
+- [胡增运：大道至简之——CCHZ-DISO 大数据评估新系统 | 胡开明：寻找气候预测中的确定性-LTO国家重点实验室学术报告2022-29](https://mp.weixin.qq.com/s/tvMJ08V5Cx19rB2uW6DWfw)
+- [李水清：小尺度海表波动在海洋系统模拟和观测中的作用 | 中科院海洋环流与波动重点实验室青年科学家系列报告（十九）](https://mp.weixin.qq.com/s/0rwE-22LbGlYGE5Uiv1MRw)
+- [刘传玉：赤道波动与温跃层混合 | 海洋与气象学院“海学论坛”（202211期）](https://mp.weixin.qq.com/s/Mw3AnmGsvVIILrQJqpKaVw)
 - [第四届“西太平洋海洋环流与气候变化”主题系列线上研讨会](https://mp.weixin.qq.com/s/eQUrKgR53tTQYzjZhhFKRw)
 - [陈永顺：立足深圳 放眼三大洋——在南科大如何培养“海洋情怀”](https://mp.weixin.qq.com/s/J7xTq6gvYZhjiXpC42bZKw)
 - [全祺：南海深层环流季节内振荡的时空特征和调控机制 | “潮新论坛”第五季开启！第22期 华东师大](https://mp.weixin.qq.com/s/jeT9nROldzmIB_kpWwYgww)
 - [胡石建：热带西太平洋海洋热浪：观测、机理和影响 | 中科院海洋环流与波动重点实验室青年科学家系列报告（十五）](https://mp.weixin.qq.com/s/_kTJ4bnXDUQCxbfTLqrYuw)
-- [邢雯：Mechanisms and prediction of Southeast Asian summer monsoon precipitation variability | LTO国家重点实验室学术报告2022-25](https://mp.weixin.qq.com/s/8HLt8Wws4fmdFTtdlsMvww)
-- [黄科：Leading-Mode Connections of the Inter-annual Variability in Upper-Ocean Salinity in the Tropical Indian Ocean | 鞠汶姗：Subsurface Cooling in the Tropical Pacific Under a Warming Climate - LTO国家重点实验室学术报告2022-24](https://mp.weixin.qq.com/s/yNW_YiVoAVQ_gVSkZGf_3Q)
-- [林建民：Undersea Remote Sensing of Ocean Storms | 海星学术论坛 2022年第14次会议通知（召集人：张翰）](https://mp.weixin.qq.com/s/oSyAK3TVJbPrxSqE_IBzSg)
-- [杨虎：卫星观测记录了“婴儿态”的海洋变暖 | MGF半月谈046期今晚20:00开讲啦](https://mp.weixin.qq.com/s/B4AX0nGVq4NeDDgZQgriwg)
-- [“观海”专家论坛第二期 | 海洋生态监测数据在典型生态系统分析评价中的应用](https://mp.weixin.qq.com/s/qnhhU0F7Wk406obXRn0bLw)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
