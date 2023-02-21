@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [Paul Liu：人工智能与科技论文写作 | MGF半月谈特别报道006期](https://mp.weixin.qq.com/s/ZlYkrLavGujGfUqWpLHVpA)
 - [徐振华：西北太平洋内潮动力能量学认识 | 中科院海洋环流与波动重点实验室青年科学家系列报告（二十七）](https://mp.weixin.qq.com/s/PYiFyVyA0x2H0x7vvGLL6A)
 - [高亮：气候变化对澳门风暴潮与洪水灾害的影响研究 MGF半月谈057期](https://mp.weixin.qq.com/s/ighdfo8d5F20iBbj2IFaEQ)
 - [甘剑平：中国海多尺度、交叉学科研究 | MGF半月谈056期](https://mp.weixin.qq.com/s/H0cQ8IbDCZJ9gCkn4ZUUMQ)
@@ -11,7 +12,6 @@
 - [第五届海底观测科学大会第三轮通知 | 中山大学海洋科学学院](https://marine.sysu.edu.cn/article/9417)
 - [The Sixth Xiamen Symposium on Marine Environmental Sciences](https://v.ttv.cn/watch/xmas6)
 - [王强：The Arctic Ocean in a Warming Climate: Changes and Mechanisms](https://www.koushare.com/lives/room/074678)
-- [高川：2020-2022年持续性拉尼娜事件演变特征及实时预测 | 中科院海洋环流与波动重点实验室青年科学家系列报告（二十六）](https://mp.weixin.qq.com/s/n-GoIQI-OwjhmIKXPNbCbA)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
