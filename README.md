@@ -3,7 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
-- [未来海洋讲坛第52期 | 中国科学院南海海洋研究所经志友研究员主讲](https://mp.weixin.qq.com/s/uUdgRY4BGSPJ8OREpyuLnQ)
+- [经志友：海洋亚中尺度动力过程及其对能量串级与垂向通量的影响 | 未来海洋讲坛第52期](https://mp.weixin.qq.com/s/uUdgRY4BGSPJ8OREpyuLnQ)
 - [王传印：Dynamical Decomposition of Multiscale Oceanic Motions | 海·研学术预告](https://mp.weixin.qq.com/s/dhUn-q4HJ5JkSUY5HYTcfg)
 - [鹿有余：加强海洋动力分析在生态和环境保护的应用：为发展海洋数字孪生服务 | 学术讲座预告第120期](https://mp.weixin.qq.com/s/8ov4ORemngXzVje_OAaYmQ)
 - [埃里克·索尔海姆：聚焦全球环境变化与绿色发展 | 南强讲座第1166期](https://mp.weixin.qq.com/s/_Kuvi-kcQY25sBBwH7kX4w)
