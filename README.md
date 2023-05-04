@@ -3,7 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
-- [LTO学术报告2023-10----热带海洋环境国家重点实验室](http://lto.scsio.ac.cn/xwtz/xsbg/202304/t20230428_740942.html)
+- [刘志宇：海洋多尺度运动的动力分解 | 徐振华：北太平洋高纬度海区内潮能量传播耗散过程 | LTO学术报告2023-10](http://lto.scsio.ac.cn/xwtz/xsbg/202304/t20230428_740942.html)
 - [学术报告| LTO国家重点实验室特邀报告2023-9](https://mp.weixin.qq.com/s/p-fx1J5X0ppQJJkM7wIp6Q)
 - [关于召开东海区域海洋学学术研讨会的通知](https://mp.weixin.qq.com/s/dZP9v4KYew8kBPWlUhXwzQ)
 - [张志伟：海洋亚中尺度过程的动力特征、输运作用及其参数化研究 | MGF半月谈062期](https://mp.weixin.qq.com/s/G95Q4YCHBjL_JebNNEnq1g)
