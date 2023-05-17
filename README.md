@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [【8.9-12】第五届全国中尺度气象学论坛通知（第一轮）----中国科学院大气物理研究所](http://iap.cas.cn/gb/xwdt/tzgg/202305/t20230517_6755402.html)
 - [通知 | 第六届全国海洋技术大会第四轮通告](https://mp.weixin.qq.com/s/SdJWBYQy-RxnN-GgncGo1A)
 - [第一届“地球系统数值模拟科学大会”第一轮通知](https://mp.weixin.qq.com/s/L1S-KhqnfAAzHI4aNCfRGw)
 - [徐振华：南海内部研究进展和趋势展望 | 新南海学术交流会第41期](https://mp.weixin.qq.com/s/qm6vp8IUV88ivStdyf1nxQ)
@@ -11,7 +12,6 @@
 - [关于召开东海区域海洋学学术研讨会的通知](https://mp.weixin.qq.com/s/dZP9v4KYew8kBPWlUhXwzQ)
 - [张志伟：海洋亚中尺度过程的动力特征、输运作用及其参数化研究 | MGF半月谈062期](https://mp.weixin.qq.com/s/G95Q4YCHBjL_JebNNEnq1g)
 - [赵晨：南极冰盖的极大不确定性与海平面上升预测](https://mp.weixin.qq.com/s/Nv7xcRyKHNU4AvrRE9ARpg)
-- [成果速递 | 基于卫星观测的拉格朗日涡旋数据集](https://mp.weixin.qq.com/s/JiRcGDI_Yb4yixOMUoSJkA)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
