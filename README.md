@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [冯明：机器学习与SST预测 | 青促会学术沙龙暨环流室特邀报告](https://mp.weixin.qq.com/s/LsVhtVkTae6xgKbqPqnzMA)
 - [海星学术论坛 | 2023年第22次会议通知（报告人：苏健 丹麦气象研究所）](https://mp.weixin.qq.com/s/oe5OdHWGMNCXWEFz0Skk5Q)
 - [2024 Ocean Sciences Meeting](https://agu.confex.com/agu/OSM24/prelim.cgi/Home/0)
 - [今天16:00 | 基于融合物理信息的深度学习水文预报](https://mp.weixin.qq.com/s/z0fbo7odK8FuVUyVD4c_qA)
@@ -11,7 +12,6 @@
 - [凌峰论坛第90讲｜全球变化与浮游生态系统](https://mp.weixin.qq.com/s/EmORz59pI4QHs-TSD6nSzQ)
 - [[10:35-11:00]王强 教授（河海大学）：重新审视黑潮延伸体变异动力学 | 首届江苏省涉海科技创新与产业发展研究生学术论坛](https://www.koushare.com/lives/room/491849)
 - [段静：印度洋上层海洋热量存储格局：风生环流的再分配作用 | 中科院海洋环流与波动重点实验室青年科学家系列报告（三十四）](https://mp.weixin.qq.com/s/oMgEgJUIAtWfe8OlMIIZVQ)
-- [学术报告| LTO国家重点实验室学术报告2023-16](https://mp.weixin.qq.com/s/FQ0tgvJ9o-iL33WG921DOg)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
