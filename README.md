@@ -3,6 +3,7 @@
 [![https://raindrop.io/collection/15230711](https://img.shields.io/badge/WEB-Page-blue.svg?logo=Internet-Explorer)](https://raindrop.io/CXu/webinars-in-the-field-of-physical-oceanography-contact-github-com-chouj-15230711) [![https://raindrop.io/collection/15230711/feed](https://img.shields.io/badge/RSS-Feed-orange.svg?logo=rss)](https://raindrop.io/collection/15230711/feed)
 
 <!-- BLOG-POST-LIST:START -->
+- [Global ocean observations for equitable knowledge-based decision-making](https://www.youtube.com/watch?v=2wFGiLQHIlU)
 - [学术讲座 | ENSO多样性的理论建模研究及云特性的卫星反演算法开发](https://mp.weixin.qq.com/s/zymS0kOafdzJichcb-voGw)
 - [学术讲座 |11月15日，Climate Tipping Points - Theory, Observations...](https://mp.weixin.qq.com/s/tqRNijOnjeuvw1p1ajdjnA)
 - [海洋科学学术讲座预告第373期 | 地形与潮汐引起的深海混合](https://mp.weixin.qq.com/s/tFX2ZM9GqY9VrbrZCFW6ZA)
@@ -11,7 +12,6 @@
 - [学术报告| LTO国家重点实验室学术报告2023-28](https://mp.weixin.qq.com/s/abs0oCRi4XjR0onKeGJ_8A)
 - [海星学术讲座 | 2023年第43次会议通知（报告人：Jacob Carstensen 教授 丹麦奥胡斯大学）](https://mp.weixin.qq.com/s/IapsH1P9HCskK7nbeDwUzg)
 - [本周讲座汇总（10月24日-29日）](https://mp.weixin.qq.com/s/gkcgWxpjFY4g11Uu9sHufw)
-- [海星学术讲座 | 王栋 ：台风条件下的朗缪尔湍流](https://mp.weixin.qq.com/s/hZJU9gtFKY4t93QQ8q3KuQ)
 <!-- BLOG-POST-LIST:END -->
 
 ###### Collaborate with [Dr. Tongya Liu](https://liutongya.github.io/) and Jiehong Han. Cheers.
